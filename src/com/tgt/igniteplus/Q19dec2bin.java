@@ -1,4 +1,4 @@
-//a program to convert decimal number to its binary equivalent
+//a program to convert decimal number to its binary equivalent.
 package com.tgt.igniteplus;
 import java.util.Scanner;
 public class Q19dec2bin {
