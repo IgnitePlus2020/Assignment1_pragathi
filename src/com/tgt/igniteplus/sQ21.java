@@ -1,4 +1,4 @@
-//a program to print series 1,-2,6,-15,31,-56.....N
+//a program to print series 1,-2,6,-15,31,-56......N
 package com.tgt.igniteplus;
 import java.util.Scanner;
 public class sQ21 {
