@@ -1,7 +1,7 @@
 //a program to print the squares of an even number in the given limit
 package com.tgt.igniteplus;
 import java.util.Scanner;
-public class evensqQ11 {
+public class Q11evensq {
     public static void main(String[] args){
         int n;
         System.out.print("enter the max number whose square is to be found: ");
