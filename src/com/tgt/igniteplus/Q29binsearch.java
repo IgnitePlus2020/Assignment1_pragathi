@@ -1,4 +1,4 @@
-// a program that implements binary search algorithm(elements must be in sorted order)
+// a program that implements binary search algorithm(elements must be in sorted order).
 package com.tgt.igniteplus;
 import java.util.*;
 public class Q29binsearch {
