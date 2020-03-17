@@ -1,4 +1,4 @@
-//a program to print if an entered number is even or odd
+//a program to print if an entered number is even or odd.
 package com.tgt.igniteplus;
 import java.util.*;
 public class oddevenQ5 {
