@@ -1,4 +1,4 @@
-/*a program to calculate sum of even and odd numbers separately till a given range*/
+//a program to calculate sum of even and odd numbers separately till a given range
 package com.tgt.igniteplus;
 import java.util.*;
 public class sumQ8ab {
