@@ -1,4 +1,4 @@
-//a program to print sequence 1,4,27,256,3125......N
+//a program to print sequence 1,4,27,256,3125.......N
 package com.tgt.igniteplus;
 import java.util.Scanner;
 import static java.lang.Math.pow;
