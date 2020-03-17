@@ -1,4 +1,4 @@
-//a program to reverse a given number
+//a program to reverse a given number.
 package com.tgt.igniteplus;
 import java.util.Scanner;
 public class revQ9 {
