@@ -1,7 +1,7 @@
 //a program to print the sequence -1,2,-3,4,-5......N
 package com.tgt.igniteplus;
 import java.util.Scanner;
-public class altQ12 {
+public class Q12alt {
     public static void main(String[] args){
         int n;
         System.out.print("enter the number of terms: ");
