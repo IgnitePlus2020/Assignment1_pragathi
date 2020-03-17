@@ -1,4 +1,4 @@
-// a program that implements linear search algorithm
+// a program that implements linear search algorithm.
 package com.tgt.igniteplus;
 import java.util.*;
 public class linsearchQ28 {
