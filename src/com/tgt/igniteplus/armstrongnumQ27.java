@@ -1,7 +1,7 @@
 //a program to check if the number is an armstrong number or not
 package com.tgt.igniteplus;
 import java.util.Scanner;
-public class armstrongnum27 {
+public class armstrongnumQ27 {
     public static void main(String[] args){
         Scanner in=new Scanner(System.in);
         System.out.println("Enter number");

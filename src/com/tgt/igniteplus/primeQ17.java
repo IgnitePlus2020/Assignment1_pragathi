@@ -1,7 +1,7 @@
 //a program to print prime numbers in a given range
 package com.tgt.igniteplus;
 import java.util.Scanner;
-public class prime17 {
+public class primeQ17 {
     public static void main(String[] args){
         int n,m;
         System.out.print("enter the range to list the prime numbers: ");

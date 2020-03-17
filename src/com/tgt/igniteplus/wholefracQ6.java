@@ -1,7 +1,7 @@
 //a program to separate integer and decimal part
 package com.tgt.igniteplus;
 import java.util.*;
-public class wholefrac6 {
+public class wholefracQ6 {
     public static void main(String[] args){
         Scanner in=new Scanner(System.in);
         double num,whole_part,fraction_part;

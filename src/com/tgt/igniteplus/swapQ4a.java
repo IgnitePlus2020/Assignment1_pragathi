@@ -1,7 +1,7 @@
 //a program to swap 2 numbers
 package com.tgt.igniteplus;
 import java.util.*;
-public class swap4a {
+public class swapQ4a {
     public static void main(String[] args){
         int a,b,temp;
         Scanner in=new Scanner(System.in);

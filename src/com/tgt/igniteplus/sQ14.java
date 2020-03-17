@@ -1,7 +1,7 @@
 //a program to print sequence 1,4,7,12,23......N
 package com.tgt.igniteplus;
 import java.util.Scanner;
-public class s14 {
+public class sQ14 {
     public static void main(String[] args){
         int a[]=new int[20];
         a[0]=1;

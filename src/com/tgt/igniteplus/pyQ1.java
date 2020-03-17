@@ -5,7 +5,7 @@
  *  * * * *
  *  * * * * *   */package com.tgt.igniteplus;
 import java.util.Scanner;
-public class py1 {
+public class pyQ1 {
     public static void main(String[] args) {
         int n;
         System.out.print("enter the number of rows: ");

@@ -1,7 +1,7 @@
 //a program to print series 1,-2,6,-15,31,-56.....N
 package com.tgt.igniteplus;
 import java.util.Scanner;
-public class s21 {
+public class sQ21 {
     public static void main(String[] args) {
         int n,term=1;
         System.out.print("enter the number of terms: ");

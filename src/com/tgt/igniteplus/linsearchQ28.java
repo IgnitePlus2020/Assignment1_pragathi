@@ -1,7 +1,7 @@
 // a program that implements linear search algorithm
 package com.tgt.igniteplus;
 import java.util.*;
-public class linsearch28 {
+public class linsearchQ28 {
     public static void main(String[] args) {
         int n,i,key;
         Scanner in = new Scanner(System.in);

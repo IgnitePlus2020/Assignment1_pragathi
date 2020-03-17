@@ -1,7 +1,7 @@
 //a program to reverse a given string
 package com.tgt.igniteplus;
 import java.util.Scanner;
-public class revstring25 {
+public class revstringQ25 {
     public static void main(String[] args){
         System.out.print("enter the string to be reversed:");
         Scanner in=new Scanner(System.in);

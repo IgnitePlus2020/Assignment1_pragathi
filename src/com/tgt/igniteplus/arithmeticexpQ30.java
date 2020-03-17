@@ -1,7 +1,7 @@
 // a program to evaluate an infix expression but keep in mind that the operators and values must be separated by spaces
 package com.tgt.igniteplus;
 import java.util.Stack;
-public class arithmeticexp30 {
+public class arithmeticexpQ30 {
     public static int evaluate(String expression) {
         char[] tokens = expression.toCharArray();
         Stack<Integer> values = new Stack<Integer>();
@@ -65,6 +65,6 @@ public class arithmeticexp30 {
     }
     public static void main(String[] args)
     {
-        System.out.println("the expression 5+5+(4*2)-(2/2) value is : " +arithmeticexp30.evaluate("5 + 5 + ( 4 * 2 ) - ( 2 / 2 ) "));
+        System.out.println("the expression 5+5+(4*2)-(2/2) value is : " + arithmeticexpQ30.evaluate("5 + 5 + ( 4 * 2 ) - ( 2 / 2 ) "));
     }
 }

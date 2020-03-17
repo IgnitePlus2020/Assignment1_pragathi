@@ -1,7 +1,7 @@
 //a program to calculate x power n without builtin function
 package com.tgt.igniteplus;
 import java.util.Scanner;
-public class xpown24 {
+public class xpownQ24 {
     public static void main(String[] args){
         int x,n,m,val=1;
         Scanner in=new Scanner(System.in);

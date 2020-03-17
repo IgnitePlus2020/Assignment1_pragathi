@@ -1,7 +1,7 @@
 //a program to reverse a given number
 package com.tgt.igniteplus;
 import java.util.Scanner;
-public class rev9 {
+public class revQ9 {
     public static void main(String[] args){
         int num,rev=0;
         System.out.print("enter the number to be reversed: ");

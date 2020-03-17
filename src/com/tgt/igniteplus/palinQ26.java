@@ -1,7 +1,7 @@
 // a program to check if an entered string is palindrome or not(case sensitive)
 package com.tgt.igniteplus;
 import java.util.Scanner;
-public class palin26 {
+public class palinQ26 {
     public static void main(String[] args){
         System.out.print("enter a string:");
         Scanner in=new Scanner(System.in);

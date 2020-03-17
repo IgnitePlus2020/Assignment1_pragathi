@@ -1,7 +1,7 @@
 // a program to print largest and second largest number out of the 3 numbers
 package com.tgt.igniteplus;
 import java.util.Scanner;
-public class large7 {
+public class largeQ7 {
     public static void main(String[] args){
         int a,b,c;
         System.out.print("enter the 3 numbers: ");

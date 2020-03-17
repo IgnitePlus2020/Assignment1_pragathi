@@ -1,7 +1,7 @@
 // a program that implements binary search algorithm(elements must be in sorted order)
 package com.tgt.igniteplus;
 import java.util.*;
-public class binsearch29 {
+public class binsearchQ29 {
     public static void main(String[] args){
         int n,key;
         Scanner in=new Scanner(System.in);

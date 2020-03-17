@@ -1,14 +1,17 @@
-//a program to print sequence 1,4,27,256,3125......N
+//a program to print the sequence -1,2,-3,4,-5......N
 package com.tgt.igniteplus;
 import java.util.Scanner;
-import static java.lang.Math.pow;
-public class s13 {
+public class altQ12 {
     public static void main(String[] args){
         int n;
         System.out.print("enter the number of terms: ");
         Scanner in=new Scanner(System.in);
         n=in.nextInt();
-        for(int i=1;i<=n;i++)
-                System.out.print((int)pow(i,i)+" ");
+        for(int i=1;i<=n;i++){
+            if(i%2==0)
+                System.out.print(i+" ");
+            else
+                System.out.print(i*(-1)+" ");
+        }
     }
 }

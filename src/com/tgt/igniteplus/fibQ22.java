@@ -1,7 +1,7 @@
 //a program that implements the fibonacci series
 package com.tgt.igniteplus;
 import java.util.*;
-public class fib22 {
+public class fibQ22 {
     public static void main(String[] args){
         int[] a=new int[30];
         a[0]=1;

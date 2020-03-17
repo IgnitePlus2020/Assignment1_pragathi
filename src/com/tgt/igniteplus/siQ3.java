@@ -1,7 +1,7 @@
 //a program to calculate simple interest
 package com.tgt.igniteplus;
 import java.util.*;
-public class si3 {
+public class siQ3 {
     public static void main(String[] args){
         float p,r,t,si;
         Scanner in = new Scanner(System.in);

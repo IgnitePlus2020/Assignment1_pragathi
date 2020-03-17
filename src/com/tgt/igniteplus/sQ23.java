@@ -1,7 +1,7 @@
 // a program to print series 1,-2,4,-6,7,-10,10.....N
 package com.tgt.igniteplus;
 import java.util.Scanner;
-public class s23 {
+public class sQ23 {
     public static void main(String[] args) {
         int n;
         System.out.print("enter n: ");

@@ -1,7 +1,7 @@
 //a program to convert number to word
 package com.tgt.igniteplus;
 import java.util.Scanner;
-public class numtoword10 {
+public class numtowordQ10 {
     public static void main(String[] args){
         int n,i;
         System.out.print("enter the 5-digit number to be converted to word: ");
