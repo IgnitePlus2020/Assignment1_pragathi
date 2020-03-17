@@ -1,4 +1,4 @@
-//a program to check if the number is an armstrong number or not
+//a program to check if the number is an armstrong number or not.
 package com.tgt.igniteplus;
 import java.util.Scanner;
 public class Q27armstrongnum {
