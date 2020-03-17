@@ -1,7 +1,7 @@
 //a program that converts binary number to decimal equivalent
 package com.tgt.igniteplus;
 import java.util.Scanner;
-public class bin2decQ20 {
+public class Q20bin2dec {
     public static void main(String[] args){
         int dec_value=0;
         int base=1;
