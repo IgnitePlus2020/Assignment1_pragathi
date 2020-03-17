@@ -1,4 +1,4 @@
-//a program to print prime numbers in a given range
+//a program to print prime numbers in a given range.
 package com.tgt.igniteplus;
 import java.util.Scanner;
 public class primeQ17 {
