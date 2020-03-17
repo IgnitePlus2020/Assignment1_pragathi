@@ -1,4 +1,4 @@
-//a program to print the sequence -1,2,-3,4,-5......N
+//a program to print the sequence -1,2,-3,4,-5.......N
 package com.tgt.igniteplus;
 import java.util.Scanner;
 public class Q12alt {
