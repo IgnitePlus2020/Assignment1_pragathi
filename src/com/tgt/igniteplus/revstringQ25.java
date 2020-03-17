@@ -1,4 +1,4 @@
-//a program to reverse a given string
+//a program to reverse a given string.
 package com.tgt.igniteplus;
 import java.util.Scanner;
 public class revstringQ25 {
