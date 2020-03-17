@@ -1,7 +1,7 @@
 // a program to evaluate an infix expression but keep in mind that the operators and values must be separated by spaces
 package com.tgt.igniteplus;
 import java.util.Stack;
-public class arithmeticexpQ30 {
+public class Q30arithmeticexp {
     public static int evaluate(String expression) {
         char[] tokens = expression.toCharArray();
         Stack<Integer> values = new Stack<Integer>();
