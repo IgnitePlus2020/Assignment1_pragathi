@@ -1,4 +1,4 @@
-//a program to convert number to word
+//a program to convert number to word applicable for 5-digit number only
 package com.tgt.igniteplus;
 import java.util.Scanner;
 public class numtowordQ10 {
