@@ -1,7 +1,7 @@
 //a program to calculate a factorial of a given number
 package com.tgt.igniteplus;
 import java.util.Scanner;
-public class factorialQ18 {
+public class Q18factorial {
     public static void main(String[] args){
         int n,fact=1;
         Scanner in=new Scanner(System.in);
