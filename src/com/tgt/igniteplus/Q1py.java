@@ -1,4 +1,4 @@
-/*a program to print a pyramid in the given fashion
+/*a program to print a pyramid in the given fashion.
  *  *
  *  * *
  *  * * *
