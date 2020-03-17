@@ -1,4 +1,4 @@
-//a program to swap 2 numbers
+//a program to swap 2 numbers.
 package com.tgt.igniteplus;
 import java.util.*;
 public class swapQ4a {
