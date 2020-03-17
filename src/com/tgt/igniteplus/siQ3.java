@@ -1,4 +1,4 @@
-//a program to calculate simple interest
+//a program to calculate simple interest.
 package com.tgt.igniteplus;
 import java.util.*;
 public class siQ3 {
