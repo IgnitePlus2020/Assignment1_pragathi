@@ -1,4 +1,4 @@
-// a program to print series 1,-2,4,-6,7,-10,10.....N
+// a program to print series 1,-2,4,-6,7,-10,10......N
 package com.tgt.igniteplus;
 import java.util.Scanner;
 public class sQ23 {
