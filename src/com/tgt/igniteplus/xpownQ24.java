@@ -1,4 +1,4 @@
-//a program to calculate x power n without builtin function
+//a program to calculate x power n without builtin function.
 package com.tgt.igniteplus;
 import java.util.Scanner;
 public class xpownQ24 {
