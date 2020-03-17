@@ -1,4 +1,4 @@
-// a program to check if an entered string is palindrome or not(case sensitive)
+// a program to check if an entered string is palindrome or not(case sensitive).
 package com.tgt.igniteplus;
 import java.util.Scanner;
 public class palinQ26 {
