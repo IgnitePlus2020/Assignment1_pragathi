@@ -1,4 +1,4 @@
-//a program to print sequence 1,5,13,29,49,77......N
+//a program to print sequence 1,5,13,29,49,77.......N
 package com.tgt.igniteplus;
 import java.util.Scanner;
 public class sQ16 {
