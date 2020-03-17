@@ -1,4 +1,4 @@
-//a program to separate integer and decimal part
+//a program to separate integer and decimal part.
 package com.tgt.igniteplus;
 import java.util.*;
 public class wholefracQ6 {
