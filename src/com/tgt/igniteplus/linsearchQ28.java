@@ -8,7 +8,7 @@ public class linsearchQ28 {
         System.out.print("enter the number of elements");
         n = in.nextInt();
         int[] a = new int[n];
-        System.out.print("enter the elements in sorted order");
+        System.out.print("enter the elements ");
         for (i = 0; i < n; i++)
             a[i] = in.nextInt();
         System.out.print("enter the key/search element");
