@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Q11evensq {
     public static void main(String[] args){
         int n;
-        System.out.print("enter the max number whose square is to be found: ");
+        System.out.print("enter the value of n: ");
         Scanner in=new Scanner(System.in);
         n=in.nextInt();
         for(int i=2;i<=n;i+=2)
