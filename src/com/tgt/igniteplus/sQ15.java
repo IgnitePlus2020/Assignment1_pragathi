@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class sQ15 {
     public static void main(String[] args) {
         int n;
-        System.out.print("enter the number of terms: ");
+        System.out.print("enter the value of n: ");
         Scanner in=new Scanner(System.in);
         n=in.nextInt();
         for (int i = 1; i <= n; i++) {
