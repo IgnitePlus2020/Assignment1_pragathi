@@ -1,4 +1,9 @@
-# Assignment1_pragathi
-Basic java programs.
-The Assignment_level_1.pdf contains questions.
-The answers(code) is present in src/com/tgt/igniteplus 
+
+
+The following programming is not satisfying the input range. Its printing one number less the range.
+
+https://github.com/IgnitePlus2020/PRAGATHI_Assignment1/blob/master/src/com/tgt/igniteplus/sQ15.java
+
+This program is not clear and not printing as expected.
+
+https://github.com/IgnitePlus2020/PRAGATHI_Assignment1/blob/master/src/com/tgt/igniteplus/sQ23.java
